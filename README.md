@@ -1,2 +1,2 @@
 # Linux-command
-Command and understanding of linux
+Commands and understanding of linux
